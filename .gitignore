@@ -1,0 +1,11 @@
+# Ignore compiled files
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore OS files
+.DS_Store
