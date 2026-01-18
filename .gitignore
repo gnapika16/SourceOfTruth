@@ -1,11 +1,10 @@
-# Ignore compiled files
-*.class
+# Gradle
+.gradle/
+build/
 
-# Ignore logs
-*.log
+# IDE
+.vscode/
+.idea/
 
-# Ignore environment files
-.env
-
-# Ignore OS files
+# OS
 .DS_Store
